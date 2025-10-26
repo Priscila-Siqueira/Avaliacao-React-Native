@@ -1,4 +1,4 @@
-Fokus Pomodoro (React Native)
+# Fokus Pomodoro (React Native)
 
 Aplicativo simples em React Native para auxiliar no foco usando a técnica Pomodoro.
 Possui três modos (Foco, Pausa curta e Pausa longa), um botão único que alterna entre Começar e Pausar, e um temporizador que exibe o tempo em mm:ss.
