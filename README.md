@@ -18,8 +18,8 @@ Possui três modos (Foco, Pausa curta e Pausa longa), um botão único que alter
 
 1.   **Clone o repositório:**
  ```bash  
-git clone https://github.com/<seu-usuario>/fokus-pomodoro.git
-cd fokus-pomodoro
+git clone https://github.com/Priscila-Siqueira/Avaliacao-React-Native
+cd fokus
 ```
 2. **Instale as dependências:**
 ```bash
@@ -27,9 +27,9 @@ npm install
 ```
 3. **Execute:**
 ```bash
-npx react-native start
-npx react-native run-android   # ou: npx react-native run-ios
+npm start
 ```
+4. Abra seu navegador e acesse http://localhost:8081/
 
 
 
